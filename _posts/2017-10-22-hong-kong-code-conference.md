@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hong Kong Code Conference
 ---
 
