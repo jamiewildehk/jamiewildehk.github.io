@@ -1,6 +1,7 @@
 ---
 layout: single
 title: About
+permalink: /about/
 ---
 
 I am CTO at [miro](https://miro.io) where I work on Computer Vision and Machine Learning. (And writing web apps, because everything involves writing webapps)
