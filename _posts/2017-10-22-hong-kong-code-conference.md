@@ -1,5 +1,13 @@
 ---
 title: Hong Kong Code Conference
+categories:
+  - Conference Talks
+tags:
+  - tensorflow
+  - lambda
+  - machine-learning
+  - neural-networks
+  - opencv
 ---
 
 Taylor and I gave a talk about how we used a Machine Learning approach to solve our problem of finding runners in race photos.
