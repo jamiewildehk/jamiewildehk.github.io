@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jamie"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : assets/images/bio-photo.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Beer, Paddles and Code (not necessairly in that order)"
   location         : "Hong Kong"
   email            :
