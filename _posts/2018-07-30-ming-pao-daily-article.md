@@ -1,21 +1,20 @@
 
 Published in [Ming Pao Daily, July 30th 2018](https://news.mingpao.com/pns/%E5%89%B5%E7%A7%91%E7%B7%9A/web_tc/article/20180730/special/1532888110015)
 
-###AI Shoe and Number Bib Recognition Developed by Running Enthusiasts Helps Marathon Runners Retrieve Photos
+Translated by Tony Wong
+
+### AI Shoe and Number Bib Recognition Developed by Running Enthusiasts Helps Marathon Runners Retrieve Photos
 Soaring in popularity around the globe in recent years, Marathons have evolved from just sports events into fun and amusing carnivals. Hong Kong hosts a variety of marathons each year, with the “Standard Chartered Hong Kong Marathon” being the most iconic, attracting athletes worldwide and tens of thousands of local citizens every year. It is understandable that such large-scale competitions produce a large quantity of photos and most participants hope to find theirs to keep as souvenirs. However, faced with photos of tens of thousands of runners, it takes several hours to handle them properly under the existing method. A startup company has developed a program to shorten the photo searching time, making instant sharing possible for the participants.
 Miro, a startup technology company, has developed a computer program called RunnerTag. It uses computer vision and artificial intelligence, along with machine learning, to identify participants in the photos and videos of the marathon. The identified data are automatically categorized and matched in the RunnerTag system. The cloud-based system takes only 3.6 seconds to match a photo with the corresponding participant, shortening the photo seeking time and improving the search efficiency.
 
-###Download or Share Photos by Entering Bib Number Online
+### Download or Share Photos by Entering Bib Number Online
 Miro was founded in Hong Kong by Jamie Wilde and Taylor Host in 2015, with Jamie serving as the company's Chief Technology Officer (CTO). He studied computer science and has worked in the technology field in Hong Kong for 10 years. He is also an enthusiastic runner and passionate about starting his own company. He believes that Hong Kong has many talents from different countries and the economic infrastructures are well-developed, making the city the best choice for entrepreneurs.
 In Hong Kong, the support and investment from the government and businesses to technology startups is one of the incentives for young people to start a business. In July, Jamie represented Miro in the Hong Kong stop of "Create @ Alibaba Cloud Startup Contest" with the theme of "Smart City". The company won the championship and received the equivalent of 50,000 US dollars in cloud computing sponsorship. They now have the chance to compete in the semi-final of the Guangdong-Hong Kong-Macao Greater Bay Area in August for the golden ticket to the final held in Hangzhou in November.
 In the digital age, where instant sharing triumphs, any delay could mean losing appeal and failing to generate discussions. Jamie said that RunnerTag will upload the photos to the online platform after they have been processed properly. Participants can instantly download, share and email photos by entering their bib numbers.
 
-###Protecting Privacy by Not Using Facial Recognition
+### Protecting Privacy by Not Using Facial Recognition
 In addition, RunnerTag does not use the face recognition system, but instead analyzes the bib numbers and the sneaker brands and styles of the participants before categorizing the photos. Jamie recalled that when they first taught the AI to search for numbers in photos, it took   hundreds of thousands of training attempts before it accurately identified numbers. He also mentioned that RunnerTag will continue to be trained to identify more features, but the training time will take longer.
 Jamie explained that through analyzing the bib numbers, shoes, and relevant data, the target photos can be accurately found. The reason why the company does not use face recognition technology is because it concerns private data, including the appearance of individuals. He added that RunnerTag only needs accurate data for analysis and does not want to collect private data of others.
 
-###Helping to Analyze the Market by Gathering Data on Running Shoes Brands
+### Helping to Analyze the Market by Gathering Data on Running Shoes Brands
 Besides identifying participants, RunnerTag can provide data on the different brands of running shoes used in marathons for market research purpose by collecting photos of participants’ shoes. This feature helps the industry to analyze customer preferences for brands and even styles through data analysis. Jamie mentioned that by collecting data from the marathons in Hong Kong, such as the “Sun Life Shine Resolution Run” in 2017, the company discovered that compared to other regions, Hong Kong people prefer to wear expensive sports shoes, indicating the relatively smaller market for cheap sports shoes in Hong Kong.
-
-
-Translated by Tony Wong
